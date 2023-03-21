@@ -1,16 +1,16 @@
-# hand_digit_rec
+# hand digit rec
 
-A new Flutter project.
+The Frontend part of the project shown in [video demo](https://youtu.be/hmwlQjQ06OE)
 
-## Getting Started
+How to use:
 
-This project is a starting point for a Flutter application.
+**Build App**
+Simply build the app using flutter framw work using the command:
+`flutter build apk` for android platform.
 
-A few resources to get you started if this is your first Flutter project:
+**Running API**
+Apis are written with the help of FastAPI [docs](https://fastapi.tiangolo.com/)
+Simply follow the docs the to setup the envs, and then run using the command:
+`uvicorn app:app`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+once running the app can be used!!!
